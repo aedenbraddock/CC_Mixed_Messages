@@ -1,0 +1,12 @@
+{
+  "name": "daily_fortune_maker",
+  "version": "1.0.0",
+  "description": "This is a simple coding exercise to practice Javascript as I continue to learn. Prompted from Codecademy's Full Stack course.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aeden Braddock",
+  "license": "MIT"
+}
